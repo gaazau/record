@@ -1,6 +1,4 @@
 # 应用工厂，单独作为一个包 
-
-
 import os
 
 from flask import Flask
